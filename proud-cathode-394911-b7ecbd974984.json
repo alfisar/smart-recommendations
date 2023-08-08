@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "proud-cathode-394911",
+  "private_key_id": "b7ecbd974984979ac25d00b389b5e957f9ed9c1d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCrh0EmcBFK7T4Z\nR1OC+NZzYwcwHwZAeQuIGUKVVJZLlxoETKuu8wABU59EZBsP/ij+heuDEB/ClzR3\nd08kS2HENJdXQ+UHWr5zBr1eTYhBjEpCsjpif9LTiF5cYS/dEUV7NEn0Y/1g3ZcQ\n9VgYIDcCVQGr5KmCvC2SHgGGz2TN/CMlydC2knLDm++75VNv7cyAFjIzpRV79Abh\neubuOztwvP1yf/wpKVqSveJOe1jPdyMe/Sw8oabDEN9pRfsCugqB9NiuIRANd+eN\n2eIaTecVXoIaAPy+YV5arzB+CaQFqsUrCeOHbLKXbH/AOrBBixItxnR1RVtNZPag\nFFHcWk8BAgMBAAECggEATtG5E1Od7qMzzOPksSNtT9pqfCdVdRzqOqD44qva4GNP\ntjgREDRjhTiK0B97/A5bghHB1hj7ryxSFK+Dc3ccNs+/137AaG+/YhXvwLy55vzz\nRtClWYvJMiDQ03xpRRlhpyqw7RdhYDiS6V0EHRn4jR7IxNcvOX8FJcaaBvuYI7p+\nohDVv5CuL/zDv1fUmCfGHlpUaHyTcZetrRkIenqjmlu2yDBtgra8HPUPsw69+AIM\nk9Cx71ejGPiiYev6nQa6eczdC7oqG/p0/k0rrimbi5WrlI6XR7tmbUgh+GzB0G1K\nbissacTev7OPo4gGXbYrzEZx34Jy1GgFzBQNRJs1fQKBgQDjm1CyupSgUNauTR9a\ntrlIf+9nLy1/kjn3ogpf2zC+EbBYUkx67RT/pyTOzE431/r6/TukJlmm2RBrd2xn\nUqt84aRRIpu/GpIO2S11iYJ2RFnaMtQeE1bZxddPKp/pUkhC0g86BmmvSODSWX98\nxWYSJiaq1xrRzFGwPqJ4TY9DywKBgQDA7Q+Qnzx3VxNUJoMWljIomXeaaWe3HZA1\nRge1YdD/nHtKIEjPbGDwmqTTwHumY1nPC5EUVy35oqYWQwMQgzzt1Uv9yztpf21o\nfUxbd7/BMHz9tSfJqPg5Em22UwY3r4ZKP0sTAdjAVURexMLI3u1ZkqbeEAFkAAkD\nRl8CXUFW4wKBgQDQUWRf4VONE9AZwi6zaVBWIfotN8nt3BlAJEhYiZaoMCp1/AVR\n8VJp10JiIC5rADwPot0Gla8yfbOAmNJYExsv9pndRM7F73zFKFNqI4yL0G1ov2LT\nkCHKukAhjkLEW3IV7orPMfVi4FIdVJrRyR5t+AsmDDDY2qfdpsYvU9WPVwKBgBVy\nxYY4jcpeveFfHrfGHvFwjmF2UneDK+MgU/8QTuH8DaDiEfYtgGF/b8+y2IxZA0UH\nbiuqvYvBT2GuNYsCbCWszvP6QjKqXgl91J1epMzfjSXPnArJZD9EEzpv5IMQWoeq\nnbgRPn2zfRRkH5uhXRXWPgL2GJF7h4T7r9hdccQtAoGBAKl86Mrgck52/BmqPcCq\ne82gYQq/lf5FgdgbyhyNqmdiByc99XZxfaR6ECQdLVsy2TvKVdf2Uq56VDFMo4OV\nPR9OX0AYCnLlpTnR3+LpgGrZX6M/JKkHCBVc6jYzz2dDbHtnOglR3Jbv9E6RuxSl\n1QwD2eJAIntRt42+m5z3K2xE\n-----END PRIVATE KEY-----\n",
+  "client_email": "coba-akses@proud-cathode-394911.iam.gserviceaccount.com",
+  "client_id": "100057041016585416638",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/coba-akses%40proud-cathode-394911.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

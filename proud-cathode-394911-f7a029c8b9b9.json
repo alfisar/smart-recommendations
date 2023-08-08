@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "proud-cathode-394911",
+  "private_key_id": "f7a029c8b9b9a799a952deb81fc9a92ab7f3aeba",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDH0dpD5H41JiKM\n7TnPkegOPkkxInVzmX/ZFRk6p0Nxj0bUwhz9g57mXvrQEVKurwHOlLEv9lUWgZeW\nxH03ZxjNyK8VV7sXPWLr2/OUIvfZOhmwtsOU3kaVXmztzwqN2lNG1U0nNgYbZXf3\nnjzAjwQnXaEP+jE29OUoRF7CZx4jie8tANAbGUGLN9Z5bESzqp639OdrHuu+RmFN\n/sAcVrRZXzGiHalUGiKkieuAHd1SwvvMPtZqEZTCCmvz+7vr2BvWNb5E0zzmJqAP\n8a6DtuTlsoxM+2ECKwEcK/cfWz40SbBZOx1y2M3bQclrBwxS7tHctoCSB6CyzVgg\njJEh40IlAgMBAAECggEAKNbcn8SrAMzfAeOYTbK59XNIfUjYLXzBcwpLYj/+Wk7Y\nwLI9v5ivmNDvvSfVOMue+GxOfImBoXxyEYfuOa0SFjj+g8OvAtRyi9ckBPJSqqyj\nxIjOF3aIgY3PgJkwxIZLP+5neuyhOec2qj7GluqEBFGwEfZmKZ/K2DyFC4GM2OFC\no8QsBb9J6nkI8YoyfdvU1+ZaxrhvsVzltFCD4W+9VD92d7jJIp1pYRhpb7FXUtMv\nwjbLeENGqQDRc3ZtH6ZOt0aANyiz03Leb8wZjvjxToWhtEa58L97iKWRxXaV1wQo\nIGycepop1f2EiwRAANEC1iY7GEKuQjuTVOWJPQY/3wKBgQD8iVvCF/cnq1b9CCH8\n5YNEtk+0WooBy86zB05v05PVOEdzCBAO3CHeQ79Nm5VbQ3nmAwqSGiQqXVD6qS8f\ntFkGRxHpCz/ygbTacwDfwXxfMWMaeLP8PXpYV4eSaskhi+yqj2jMSg+3IO2PDnlo\nVUoZ9TBQMhwRfk+0qUbybGAF6wKBgQDKj2iMlcuTk6jI9OxwOg5DRwdgSHi8AUSt\nob7EssPyRT9odYFq0F95R+bTcYUAKN3808DOSHCzGde8iDMvNUzBJeJfleOySLfg\nzBIpUjEwrJ5plYF7PD+pbM88NxxTkzJQOrQ1GS11VLYrHmncqFXWwhdmVDVmRKJh\neLod1V+ELwKBgHbw7vG8veDGN2NXuEJXivsK7wFf/04XQtRZZZ0PxroPFr/cFUwa\nbC02NV0FIVRptHkcB5eGjnARoXldw98n3yIwyQO9E7JRWu/kaI36oGxpY2btYMA1\n6HDBUQ4qE28kayRuBQrq+vninWDajV4RhaQyMj4jS8sFdd7+N3coihVfAoGAQdrs\nF8DfxeQc3PDcKgSF/JOML16AekdDR9wtRJAGKq8e1VxWrh5+29RnlFj0779ZpMhH\niAl/Mot1W2NAmNmQUb96YK8/rwf7WEego/SH75Y/jn4/8Yv9+pxYp/AW8okJs5HS\nYu0DnYDkFRK3QjksZz0FFIzOK6imzl/MysRDYJsCgYEA3+h6GdujpSnwghqsR9lu\n3XMQnLl+J8V2MlkZ0UgookRIpy+mr1Sc/o4QawG5MDyEdgZij8paMGnOzGKyR9zC\nuHMLO4f2v4KyegNIVfx7WPB6DhzKvzJsbx6FRCkFgnfUaB0udeQ+/qYg8JGc4np/\ntfn7X0riI0I5htI+7ds4QNE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bigtable-user@proud-cathode-394911.iam.gserviceaccount.com",
+  "client_id": "102841092673866958261",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bigtable-user%40proud-cathode-394911.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
