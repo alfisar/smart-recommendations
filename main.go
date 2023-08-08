@@ -4,5 +4,5 @@ import "smart-recommendation/router"
 
 func main() {
 	route := router.NewRouter()
-	route.Run("localhost:8080")
+	route.Run(":8080")
 }
